@@ -1,0 +1,11 @@
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #202020;
+  --color-secondary: #202020;
+  --color-dark: #202020;
+  --color-bg: #202020;
+
+  /* Fonts */
+  --font-roboto: "Space Mono", monospace;
+}

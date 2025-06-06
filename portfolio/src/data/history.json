@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Embedded Systems Engineer",
+    "organisation": "American Society of Mechanical Engineers",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Project Lead / President",
+    "organisation": "Collin College Software Engineering Club",
+    "startDate": "Nov, 2023",
+    "endDate": "Dec, 2024",
+    "experiences": ["Created various projects to help members advance in their skills.", "Overlooked progress of projects and quality.", "Organized hackathons,  workshops, and other events to help others."],
+    "imageSrc": "history/microsoft.png"
+  }
+]

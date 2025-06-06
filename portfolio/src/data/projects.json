@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Automated Drone",
+    "imageSrc": "projects/project.png",
+    "description": "Work in Progress: Autonomous drone that follows user and avoids obstacles. Uses computer vision to detect objects and navigate through environment. Also controlled by user without controller through use of hand gestures.",
+    "skills": ["C++", "C"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Cortana Hologram A.I",
+    "imageSrc": "projects/project.png",
+    "description": "Voice activated hologram A.I. that can have real conversations perform tasks. Utilized APIS and Peppers Ghost to create a physical illusion. ",
+    "skills": ["Python", "MultiProcessing", "Sockets"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Star Wars Galaxy of Heroes Farming Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "Project website for mobile game Star Wars Galaxy of Heroes. Benefited community by providing an in depth database for in game units and strategies.",
+    "skills": ["React", "MongoDB", "HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
