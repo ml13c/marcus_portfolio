@@ -84,10 +84,14 @@
     flex-direction: column;
   }
 
-  .aboutImage {
-    display: none;
+  .aboutProfileImg {
+    display: block;
+    margin: 16px auto;   /* Center the image and add spacing */
+    width: 50%;        /* Adjust as needed */
+    height: 50%;
+    object-fit: cover;
+    border-radius: 50%;
   }
-
   .aboutItems {
     margin-top: 29px;
   }
