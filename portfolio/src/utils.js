@@ -1,10 +1,21 @@
 import collinCollegeImg from './assets/history/collin-college.jpg';
 import asmeImg from './assets/history/asme.png';
+import emailIcon from './assets/contact/emailIcon.png';
+import githubIcon from './assets/contact/githubIcon.png';
+import linkedinIcon from './assets/contact/linkedinIcon.png';
+import closeIcon from './assets/nav/closeIcon.png';
+import menuIcon from './assets/nav/menuIcon.png';
 const imageMap = {
   // history images
   'history/collin-college.jpg': collinCollegeImg,
   'history/asme.png': asmeImg,
-  // 'history/other.jpg': otherImg,
+  // contact section icons
+  'contact/emailIcon.png': emailIcon,
+  'contact/githubIcon.png': githubIcon,
+  'contact/linkedinIcon.png': linkedinIcon,
+  // main nav bar icons
+  'nav/closeIcon.png': closeIcon,
+  'nav/menuIcon.png': menuIcon,
 
   // skills images
  // 'skills/skill1.jpg': skill1Img,

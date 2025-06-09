@@ -42,21 +42,30 @@
   .navbar {
     flex-direction: column;
     align-items: flex-start;
+    position: relative;
+    padding-top: 0;
+    height: 0;
+    min-height: 0;
+    overflow: visible; /* or hidden if you want to hide overflow */
   }
 
   .menu {
-    position: absolute;
-    right: 0;
-    margin-right: 10%;
+    position: static;
+    margin-right: 0;
     flex-direction: column;
     align-items: flex-end;
     gap: 11px;
     z-index: 3;
+    width: auto;
   }
 
   .menuBtn {
     display: block;
     cursor: pointer;
+    position: absolute;
+    top: 40px;    /* Adjust as needed */
+    right: 24px;  /* Adjust as needed */
+    z-index: 10;  /* Ensure it overlays */
   }
 
   .menuItems {
@@ -66,11 +75,6 @@
     gap: 13px;
     border-radius: 10px;
     background: rgb(45, 46, 48);
-    background: linear-gradient(
-      0deg,
-      rgba(45, 46, 48, 0.2) 0%,
-      rgba(45, 46, 48, 1) 100%
-    );
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
   }
