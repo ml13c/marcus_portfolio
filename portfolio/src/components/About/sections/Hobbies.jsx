@@ -11,8 +11,9 @@ export const Hobbies = () => {
             <div className={styles.aboutItemText}>
               <h3>Hobbies</h3>
               <p>
-                Im just going to list some of my hobbies/things I enjoy.
-                Hiking<br></br>Soccer<br></br>Gym<br></br> 
+                I like collecting legos specifically Star Wars and DC sets. 
+                Aside from that I like going to the gym,
+                 hiking, and playing soccer. 
               </p>
             </div>
           </li>

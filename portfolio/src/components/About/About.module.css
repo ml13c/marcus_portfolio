@@ -72,6 +72,29 @@
   font-size: 25px;
 }
 
+.menuItems button {
+  background: transparent;
+  border: none;
+  font-size: 25px; /* match your .menuItems a */
+  color: var(--color-text);
+  cursor: pointer;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.menuItems button:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--color-accent);
+}
+
+.menuItems button:focus {
+  outline: none;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
@@ -100,4 +123,28 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .skillsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 32px;
+  margin-top: 12px;
+}
+
+.skillsGrid > div {
+  min-width: 0;
+}
+.skillsGrid {
+    grid-template-columns: 1fr; /* Stack on mobile */
+  }
+}
+
+.skillsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 32px;
+  margin-top: 12px;
+}
+
+.skillsGrid > div {
+  min-width: 0;
 }

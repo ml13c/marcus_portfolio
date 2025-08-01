@@ -5,6 +5,12 @@ import githubIcon from './assets/contact/githubIcon.png';
 import linkedinIcon from './assets/contact/linkedinIcon.png';
 import closeIcon from './assets/nav/closeIcon.png';
 import menuIcon from './assets/nav/menuIcon.png';
+import portfolioImg from './assets/hero/portfolio.jpg';
+import ieeeImg from './assets/history/images.png';
+import reactIcon from './assets/skills/react.png';
+import cppIcon from './assets/skills/cpp.png';
+import mongodbIcon from './assets/skills/mongodb.png';
+import pythonIcon from './assets/skills/python.png';
 const imageMap = {
   // history images
   'history/collin-college.jpg': collinCollegeImg,
@@ -16,7 +22,15 @@ const imageMap = {
   // main nav bar icons
   'nav/closeIcon.png': closeIcon,
   'nav/menuIcon.png': menuIcon,
-
+  // portfolio hero image
+  'hero/portfolio.jpg': portfolioImg,
+  // ieee image
+  'history/images.png': ieeeImg,
+  // skills icons
+  'skills/react.png': reactIcon,
+  'skills/cpp.png': cppIcon,
+  'skills/mongodb.png': mongodbIcon,
+  'skills/python.png': pythonIcon,
   // skills images
  // 'skills/skill1.jpg': skill1Img,
   //'skills/skill2.jpg': skill2Img

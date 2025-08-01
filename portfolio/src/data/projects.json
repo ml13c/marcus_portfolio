@@ -17,10 +17,9 @@
   },
   {
     "title": "Star Wars Galaxy of Heroes Farming Calculator",
-    "imageSrc": "projects/project.png",
-    "description": "Project website for mobile game Star Wars Galaxy of Heroes. Benefited community by providing an in depth database for in game units and strategies.",
+    "description": "Project website for mobile game, Star Wars Galaxy of Heroes. Benefited community by providing an in depth database for in game units and strategies.",
     "skills": ["React", "MongoDB", "HTML", "CSS", "JS"],
-    "demo": "https://www.example.com",
+    "demo": "https://ml13c.github.io/SWGOH-Calc-Website/",
     "source": "https://www.github.com"
   }
 ]

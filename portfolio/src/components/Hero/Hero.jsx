@@ -14,7 +14,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src="https://dl.dropboxusercontent.com/scl/fi/n014fojpo3x2juh5a6w5l/IMG_7039.JPG?rlkey=i4k9ikkh29tnvlze0v2i3auh8&st=s9rzjj8a"
+        src={getImageUrl("hero/portfolio.jpg")}
         className={styles.heroImg}
         alt="Profile"
       />

@@ -14,5 +14,13 @@
     "endDate": "Dec, 2024",
     "experiences": ["Created various projects to help members advance in their skills.", "Overlooked progress of projects and quality.", "Organized hackathons,  workshops, and other events to help others."],
     "imageSrc": "history/collin-college.jpg"
+  },
+  {
+    "role": "Member",
+    "organisation": "Insitute of Electrical and Electronics Engineers (IEEE)",
+    "startDate": "Aug, 2025",
+    "endDate": "Present",
+    "experiences": [ "Collaborated on hands-on technical projects, including IoT devices and embedded systems, aimed at skill development for members."],
+    "imageSrc": "history/images.png"
   }
 ]
