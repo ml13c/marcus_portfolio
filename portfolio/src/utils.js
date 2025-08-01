@@ -11,6 +11,8 @@ import reactIcon from './assets/skills/react.png';
 import cppIcon from './assets/skills/cpp.png';
 import mongodbIcon from './assets/skills/mongodb.png';
 import pythonIcon from './assets/skills/python.png';
+import SQLIcon from './assets/skills/SQL.png';
+import tensorflowIcon from './assets/skills/tensorflow.png';
 const imageMap = {
   // history images
   'history/collin-college.jpg': collinCollegeImg,
@@ -31,6 +33,8 @@ const imageMap = {
   'skills/cpp.png': cppIcon,
   'skills/mongodb.png': mongodbIcon,
   'skills/python.png': pythonIcon,
+  'skills/SQL.png': SQLIcon,
+  'skills/tensorflow.png': tensorflowIcon,
   // skills images
  // 'skills/skill1.jpg': skill1Img,
   //'skills/skill2.jpg': skill2Img

@@ -14,5 +14,13 @@
   {
     "title": "Python",
     "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "TensorFlow",
+    "imageSrc": "skills/tensorflow.png"
   }
 ]
