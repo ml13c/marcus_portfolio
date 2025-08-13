@@ -8,8 +8,8 @@
   },
   {
     "title": "Cortana Hologram A.I",
-    "imageSrc": "projects/project.png",
-    "description": "Voice activated hologram A.I. that can have real conversations perform tasks. Utilized APIS and Peppers Ghost to create a physical illusion. ",
+    "imageSrc": "projects/cortana_proj.jpg",
+    "description": "Voice activated hologram A.I. that can have real conversations perform tasks. Utilized APIS and Peppers Ghost to create an illusion. ",
     "skills": ["Python", "MultiProcessing", "Sockets"],
     "source": "https://github.com/ml13c/Cortana-Project"
   },

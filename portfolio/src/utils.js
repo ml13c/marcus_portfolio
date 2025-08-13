@@ -13,6 +13,7 @@ import mongodbIcon from './assets/skills/mongodb.png';
 import pythonIcon from './assets/skills/python.png';
 import SQLIcon from './assets/skills/SQL.png';
 import tensorflowIcon from './assets/skills/tensorflow.png';
+import cortanaProjImg from './assets/projects/cortana_proj.jpg';
 const imageMap = {
   // history images
   'history/collin-college.jpg': collinCollegeImg,
@@ -35,10 +36,8 @@ const imageMap = {
   'skills/python.png': pythonIcon,
   'skills/SQL.png': SQLIcon,
   'skills/tensorflow.png': tensorflowIcon,
-  // skills images
- // 'skills/skill1.jpg': skill1Img,
-  //'skills/skill2.jpg': skill2Img
-  // add more as needed
+  // projects images
+  'projects/cortana_proj.jpg': cortanaProjImg,
 };
 export const getImageUrl = (path) => {
   const image = imageMap[path];
