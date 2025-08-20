@@ -4,10 +4,10 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/website-portfolio",
+  base: "/website-portfolio/", // note the trailing slash is important
   css: {
     modules: {
-      LocalsConvention: "camelCase"
+      localsConvention: "camelCase" // lowercase "l"
     }
   }
 })
