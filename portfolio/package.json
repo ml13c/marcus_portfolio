@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/ml13c/website-portfolio.git"
+
   },
   "dependencies": {
     "@fontsource/outfit": "^5.2.5",
