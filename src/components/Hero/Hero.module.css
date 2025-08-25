@@ -51,8 +51,8 @@
 }
 
 .heroImg {
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 40%;
   z-index: 1;
   border-radius: 50%;
 }
@@ -108,8 +108,8 @@
   }
 
   .heroImg {/*replace this image in general to portfolio professional one*/
-    width: 125%;
-    height: 125%;
+    width: 75%;
+    height: 75%;
     object-fit: cover;
     margin-top: 10%;
     z-index: 1;
