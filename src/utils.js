@@ -9,7 +9,7 @@ import portfolioImg from './assets/hero/portfolio.jpg';
 import ieeeImg from './assets/history/images.png';
 import reactIcon from './assets/skills/react.png';
 import cppIcon from './assets/skills/cpp.png';
-import mongodbIcon from './assets/skills/mongodb.png';
+import vhdlIcon from './assets/skills/vhdl.png';
 import pythonIcon from './assets/skills/python.png';
 import SQLIcon from './assets/skills/SQL.png';
 import tensorflowIcon from './assets/skills/tensorflow.png';
@@ -32,7 +32,7 @@ const imageMap = {
   // skills icons
   'skills/react.png': reactIcon,
   'skills/cpp.png': cppIcon,
-  'skills/mongodb.png': mongodbIcon,
+  'skills/vhdl.png': vhdlIcon,
   'skills/python.png': pythonIcon,
   'skills/SQL.png': SQLIcon,
   'skills/tensorflow.png': tensorflowIcon,
