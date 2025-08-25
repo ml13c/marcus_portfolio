@@ -38,6 +38,7 @@ const imageMap = {
   'skills/tensorflow.png': tensorflowIcon,
   // projects images
   'projects/cortana_proj.jpg': cortanaProjImg,
+
 };
 export const getImageUrl = (path) => {
   const image = imageMap[path];
