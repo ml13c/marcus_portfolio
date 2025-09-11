@@ -5,7 +5,7 @@ import githubIcon from './assets/contact/githubIcon.png';
 import linkedinIcon from './assets/contact/linkedinIcon.png';
 import closeIcon from './assets/nav/closeIcon.png';
 import menuIcon from './assets/nav/menuIcon.png';
-import portfolioImg from './assets/hero/portfolio.jpg';
+import portfolioImg from './assets/hero/portfolio.jpeg';
 import ieeeImg from './assets/history/images.png';
 import reactIcon from './assets/skills/react.png';
 import cppIcon from './assets/skills/cpp.png';
@@ -26,7 +26,7 @@ const imageMap = {
   'nav/closeIcon.png': closeIcon,
   'nav/menuIcon.png': menuIcon,
   // portfolio hero image
-  'hero/portfolio.jpg': portfolioImg,
+  'hero/portfolio.jpeg': portfolioImg,
   // ieee image
   'history/images.png': ieeeImg,
   // skills icons

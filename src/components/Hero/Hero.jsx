@@ -15,7 +15,7 @@ export const Hero = () => {
 
       <div className={styles.profileWrapper}>
         <img
-          src={getImageUrl("hero/portfolio.jpg")}
+          src={getImageUrl("hero/portfolio.jpeg")}
           className={styles.heroImg}
           alt="Profile"
         />
