@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "Work in Progress: Autonomous drone that follows user and avoids obstacles. Uses computer vision to detect objects and navigate through environment. Also controlled by user without controller through use of hand gestures.",
     "skills": ["C++", "TensorFlow", "Python"], 
-    "source": "https://www.github.com"
+    "source": "https://github.com/ml13c/hand_gest"
   },
   {
     "title": "Cortana Hologram A.I",
