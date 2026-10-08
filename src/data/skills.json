@@ -1,16 +1,14 @@
 [
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },  
+
   {
     "title": "C++",
     "imageSrc": "skills/cpp.png"
   },
   {
-    "title": "VHDL",
+    "title": "VHDL & Verilog",
     "imageSrc": "skills/vhdl.png"
   },
+
   {
     "title": "Python",
     "imageSrc": "skills/python.png"
@@ -19,6 +17,10 @@
     "title": "SQL",
     "imageSrc": "skills/SQL.png"
   },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  } 
   {
     "title": "TensorFlow",
     "imageSrc": "skills/tensorflow.png"
