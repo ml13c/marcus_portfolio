@@ -1,14 +1,14 @@
 [
   {
     "title": "Real Time Video Processing System",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/fpga_dashboard.jpg",
     "description": "FPGA-based video processing pipeline featuring RTL camera control, BRAM buffering, CDC handling, and real-time VGA output.",
     "skills": ["Verilog", "RTL Design", "FPGA", "Vivado"], 
     "source": "https://github.com/ml13c/FPGA-Dashboard"
   },
   {
     "title": "Automated Drone",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/drone.jpg",
     "description": "Work in Progress: Autonomous drone that follows user and avoids obstacles. Uses computer vision to detect objects and navigate through environment. Also controlled by user without controller through use of hand gestures.",
     "skills": ["C++", "TensorFlow", "Python"], 
     "source": "https://github.com/ml13c/hand_gest"
@@ -22,6 +22,7 @@
   },
   {
     "title": "Star Wars Galaxy of Heroes Farming Calculator",
+    "imageSrc": "projects/swgoh_FarmingCalc.jpg",
     "description": "Aside from this portfolio I made a project website for a mobile game, Star Wars Galaxy of Heroes. Benefited community by providing an in depth database for in game units, income tracking and strategies.",
     "skills": ["React", "MongoDB"],
     "demo": "https://ml13c.github.io/SWGOH-Calc-Website/",

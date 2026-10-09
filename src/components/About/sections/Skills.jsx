@@ -14,11 +14,13 @@ export const Skills = () => {
                 <div>
                   <strong>Languages:</strong>
                   <ul className={styles.skillsDetails}>
-                    <li>Python</li>
-                    <li>Java</li>
                     <li>C, C++</li>
-                    <li>JavaScript</li>
-                    <li>Assembly</li>
+                    <li>Python</li>
+                    <li>Verilog</li>
+                    <li>VHDL</li>
+                    <li>Java</li>
+                    <li>SQL</li>
+                    <li>Assembly x86</li>
                   </ul>
                 </div>
                 <div>
@@ -28,19 +30,25 @@ export const Skills = () => {
                     <li>MediaPipe</li>
                     <li>NLTK</li>
                     <li>Pandas</li>
-                    <li>BeautifulSoup</li>
-                    <li>NumPy</li>
-                    <li>Matplotlib</li>
+                    <li>TensorFlow</li>
                   </ul>
                 </div>
                 <div>
                   <strong>Developer Tools:</strong>
                   <ul className={styles.skillsDetails}>
                     <li>Git</li>
-                    <li>Jupyter</li>
+                    <li>Vivado</li>
                     <li>Visual Studio Code</li>
                     <li>Linux OS</li>
-                    <li>Blender</li>
+                  </ul>
+                </div>
+                <div>
+                  <strong>Hardware:</strong>
+                  <ul className={styles.skillsDetails}>
+                    <li>FPGA(AMD/Xilinx Artix-7)</li>
+                    <li>STM32 Nucelo</li>
+                    <li>Raspberry Pi</li>
+                    <li>ESP32</li>
                   </ul>
                 </div>
               </div>

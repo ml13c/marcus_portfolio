@@ -20,9 +20,5 @@
   {
     "title": "React",
     "imageSrc": "skills/react.png"
-  }, 
-  {
-    "title": "TensorFlow",
-    "imageSrc": "skills/tensorflow.png"
   }
 ]
