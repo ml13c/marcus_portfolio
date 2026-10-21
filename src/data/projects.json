@@ -7,6 +7,12 @@
     "source": "https://github.com/ml13c/FPGA-Dashboard"
   },
   {
+    "title": "Self Driving RC Car",
+    "description": "Self-driving RC car that is accelerated using FPGA. Uses a a heterogeneous FPGA/CPU architecture to process camera input and control the car in real time. ",
+    "skills": ["Verilog", "RTL Design", "C++"], 
+    "source": "https://github.com/ml13c/RC-FPGA-Accelerated-Car"
+  },
+  {
     "title": "Automated Drone",
     "imageSrc": "projects/drone.jpg",
     "description": "Work in Progress: Autonomous drone that follows user and avoids obstacles. Uses computer vision to detect objects and navigate through environment. Also controlled by user without controller through use of hand gestures.",
